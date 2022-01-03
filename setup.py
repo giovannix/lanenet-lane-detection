@@ -11,7 +11,7 @@ setup(
     install_requires=[
         'glog',
         'loguru',
-        'tensorflow_gpu',
+        'tensorflow_gpu==2.7.0',
         'tqdm',
         'matplotlib',
         'opencv_contrib_python',
